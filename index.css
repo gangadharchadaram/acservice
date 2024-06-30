@@ -5,6 +5,10 @@
     height: 70px;
 }
 
+.container{
+        max-width: 1200px;
+}
+
 #navItem1 {
     color: #323f4b;
     font-family: "Roboto";
